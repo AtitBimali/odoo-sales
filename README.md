@@ -34,4 +34,5 @@ By entering the desired date range and selecting a customer, users can generate 
 9. The sales report will be displayed with the customer-wise sales data in the desired format.
 
 
-
+## Note:
+Please update your database configuration mentioned in ```openerp-server.conf``` file
